@@ -26,7 +26,28 @@ Key options:
 - `--batch_size`, `--learning_rate`, `--epochs`, `--max_length`: Training hyperparameters.
 - `--max_train_samples` / `--max_eval_samples`: Subset the dataset for quick experiments.
 - `--metric`: Any metric available through the `evaluate` library (default: `accuracy`).
+- `--mixed_precision`: Enable `fp16` or `bf16` training when your GPU supports it (useful on ROCm/AMD or NVIDIA).
+- `--no_cuda`: Force CPU training if you want to avoid GPU usage.
 - `--push_to_hub` and `--hub_model_id`: Push the fine-tuned model to the Hugging Face Hub.
+
+## Running on AMD GPUs (ROCm)
+
+PyTorch and the Hugging Face stack run on AMD GPUs via ROCm. Install the ROCm-enabled PyTorch wheels before
+installing the rest of the dependencies:
+
+```bash
+# Pick the command for your ROCm/PyTorch version from https://pytorch.org/get-started/locally/
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.0
+pip install -r requirements.txt
+```
+
+Then fine-tune with mixed precision to speed up training if your GPU supports bfloat16:
+
+```bash
+python train.py --dataset_name imdb --model_name bert-base-uncased --mixed_precision bf16 --output_dir ./outputs/imdb
+```
+
+If you want to run on CPU instead (or your ROCm install is not detected), use `--no_cuda`.
 
 Example for GLUE SST-2 with smaller subsets for a quick test run:
 

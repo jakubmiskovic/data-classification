@@ -108,6 +108,18 @@ def parse_args() -> argparse.Namespace:
         help="Where to store model checkpoints and logs.",
     )
     parser.add_argument(
+        "--mixed_precision",
+        type=str,
+        choices=["fp16", "bf16"],
+        default=None,
+        help="Enable mixed precision training with fp16 or bf16 (requires hardware support).",
+    )
+    parser.add_argument(
+        "--no_cuda",
+        action="store_true",
+        help="Force training on CPU even if a GPU is available.",
+    )
+    parser.add_argument(
         "--max_train_samples",
         type=int,
         default=None,
@@ -274,6 +286,9 @@ def main():
 
     collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
+    fp16 = args.mixed_precision == "fp16"
+    bf16 = args.mixed_precision == "bf16"
+
     training_args = TrainingArguments(
         output_dir=args.output_dir,
         evaluation_strategy="epoch",
@@ -287,6 +302,9 @@ def main():
         push_to_hub=args.push_to_hub,
         hub_model_id=args.hub_model_id,
         logging_steps=50,
+        fp16=fp16,
+        bf16=bf16,
+        no_cuda=args.no_cuda,
     )
 
     compute_metrics = compute_metrics_builder(metric_name=args.metric)
