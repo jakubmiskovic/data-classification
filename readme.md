@@ -1,6 +1,6 @@
-# Text Classification with Hugging Face Transformers
+# Slovak Filter Classification with Hugging Face Transformers
 
-This repository contains a minimal, configurable script for fine-tuning BERT (or any compatible encoder) on text classification datasets from the 🤗 Hub.
+This repository fine-tunes BERT (or another encoder) to assign the correct **Filter** to Slovak text descriptions (**Popis**) stored in local JSONL files.
 
 ## Setup
 
@@ -10,30 +10,27 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Usage
+## Data layout
 
-Fine-tune BERT on the IMDb sentiment dataset:
+Prepare three JSONL files:
 
-```bash
-python train.py --dataset_name imdb --model_name bert-base-uncased --output_dir ./outputs/imdb
-```
+- **Training/Eval data** (`--train_file`, `--eval_file`): each line includes `Popis` (text) and `Filter` (label). Example:
 
-Key options:
+  ```json
+  {"Popis": "Výmena brzdových doštičiek vpredu", "Filter": "Brzdy"}
+  ```
 
-- `--dataset_name` / `--dataset_config`: Dataset from the 🤗 Hub (e.g., `imdb`, `ag_news`, or `glue --dataset_config sst2`).
-- `--text_column` / `--label_column`: Customize column names if the dataset schema differs.
-- `--train_split` / `--eval_split`: Choose which dataset splits to use. If no eval split is provided and none exists, a validation set is created from the training split using `--validation_split_ratio`.
-- `--batch_size`, `--learning_rate`, `--epochs`, `--max_length`: Training hyperparameters.
-- `--max_train_samples` / `--max_eval_samples`: Subset the dataset for quick experiments.
-- `--metric`: Any metric available through the `evaluate` library (default: `accuracy`).
-- `--mixed_precision`: Enable `fp16` or `bf16` training when your GPU supports it (useful on ROCm/AMD or NVIDIA).
-- `--no_cuda`: Force CPU training if you want to avoid GPU usage.
-- `--push_to_hub` and `--hub_model_id`: Push the fine-tuned model to the Hugging Face Hub.
+- **Filter list** (`--filter_list_file`): one line per allowed filter with optional descriptions, e.g.:
 
-### Train on local Slovak JSONL data and auto-assign filters
+  ```json
+  {"Filter": "Brzdy", "Description": "Servis brzdového systému"}
+  ```
 
-If your training data lives in a JSON Lines file with Slovak fields `Popis` (text) and `Filter` (label), and you have a separate
-JSONL file listing the available filters, you can fine-tune and then classify unlabeled data like this:
+- **Unlabeled data** (`--predict_file`): only `Popis` (and any extra context fields you want to keep in the output).
+
+## Train and evaluate on local JSONL files
+
+Fine-tune a multilingual BERT model on your labeled Slovak data and restrict labels to the provided filter list:
 
 ```bash
 python train.py \
@@ -46,7 +43,20 @@ python train.py \
   --output_dir ./outputs/filters
 ```
 
-To predict filters for unlabeled items stored in `data/unlabeled.jsonl`, add:
+Key options for this workflow:
+
+- `--train_file`, `--eval_file`, `--predict_file`: Local JSONL inputs for training, evaluation, and unlabeled prediction.
+- `--filter_list_file`: Enforces the allowed filter vocabulary and maps string labels to IDs.
+- `--text_column`, `--label_column`: Map your column names (defaults: `text` and `label`).
+- `--batch_size`, `--learning_rate`, `--epochs`, `--max_length`: Training hyperparameters.
+- `--max_train_samples` / `--max_eval_samples`: Subset the data for quick tests.
+- `--metric`: Metric from the `evaluate` library (default: `accuracy`).
+- `--mixed_precision`: Enable `fp16` or `bf16` training when your GPU supports it.
+- `--no_cuda`: Force CPU training.
+
+## Predict filters for new data
+
+After training, classify unlabeled items and write predictions with confidences to `./outputs/filters/predictions.jsonl`:
 
 ```bash
 python train.py \
@@ -60,12 +70,11 @@ python train.py \
   --output_dir ./outputs/filters
 ```
 
-Predicted filters (with the original `Popis` text and a confidence score) are written to `./outputs/filters/predictions.jsonl` by default.
+Each output line keeps the original fields (such as `Popis`) and adds `predicted_filter` plus `confidence`.
 
 ## Running on AMD GPUs (ROCm)
 
-PyTorch and the Hugging Face stack run on AMD GPUs via ROCm. Install the ROCm-enabled PyTorch wheels before
-installing the rest of the dependencies:
+Install ROCm-enabled PyTorch wheels before the rest of the dependencies:
 
 ```bash
 # Pick the command for your ROCm/PyTorch version from https://pytorch.org/get-started/locally/
@@ -73,25 +82,18 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install -r requirements.txt
 ```
 
-Then fine-tune with mixed precision to speed up training if your GPU supports bfloat16:
-
-```bash
-python train.py --dataset_name imdb --model_name bert-base-uncased --mixed_precision bf16 --output_dir ./outputs/imdb
-```
-
-If you want to run on CPU instead (or your ROCm install is not detected), use `--no_cuda`.
-
-Example for GLUE SST-2 with smaller subsets for a quick test run:
+Then fine-tune with mixed precision if your GPU supports bfloat16:
 
 ```bash
 python train.py \
-  --dataset_name glue \
-  --dataset_config sst2 \
-  --text_column sentence \
-  --model_name bert-base-uncased \
-  --max_train_samples 2000 \
-  --max_eval_samples 500 \
-  --output_dir ./outputs/glue-sst2
+  --train_file data/train.jsonl \
+  --eval_file data/val.jsonl \
+  --filter_list_file data/filters.jsonl \
+  --text_column Popis \
+  --label_column Filter \
+  --model_name bert-base-multilingual-cased \
+  --mixed_precision bf16 \
+  --output_dir ./outputs/filters
 ```
 
-The script saves checkpoints and evaluation metrics to the specified `output_dir` and can automatically load the best checkpoint when training completes.
+Use `--no_cuda` to force CPU training if ROCm is unavailable.
