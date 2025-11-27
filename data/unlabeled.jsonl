@@ -1,3 +1,500 @@
-{"id": "job-001", "Popis": "Výmena oleja a kontrola filtra"}
-{"id": "job-002", "Popis": "Kontrola opotrebovania brzdových kotúčov"}
-{"id": "job-003", "Popis": "Vyváženie kolies po výmene pneumatík"}
+{"P.č.":null,"Popis":"Vzduchotechnika a chladenie - 605"}
+{"P.č.":null,"Popis":"Final Assembly"}
+{"P.č.":"FAS AHU 01-04","Popis":"Hall ventilation - Production area without mixing"}
+{"P.č.":"FAS AHU 01-04.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n"}
+{"P.č.":"FAS AHU 01-04.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 01-04.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 01-04.004","Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7)."}
+{"P.č.":"FAS AHU 01-04.005","Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5)."}
+{"P.č.":"FAS AHU 01-04.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 01-04.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 01-04.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 01-04.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 01-04.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 01-04.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 01-04.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 01-04.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 01-04.101","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.102","Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.103","Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná"}
+{"P.č.":"FAS AHU 33-34.107","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 315 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 33-34.107a","Popis":"Tlmič hluku \n- DN 315 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 01-04.201","Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima"}
+{"P.č.":"FAS AHU 01-04.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 01-04.252","Popis":"Anemostat - odvodní\n- čelní deska do rastru 600x600\/54\/RAL 9010 - černé lamely;\n- vč. připojovací krabice s bočním připojení DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 01-04.251","Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%."}
+{"P.č.":"FAS AHU 01-04.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN355.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 01-04.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 01-04.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 01-04.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 01-04.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 01-04.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 01-04.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 355, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.708","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.709","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.709","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 900, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.710","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.710","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 01-04.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 01-04.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 01-04.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 01-04.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 01-04.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 05-16","Popis":"Hall ventilation - Production area with mixing"}
+{"P.č.":"FAS AHU 05-16.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n"}
+{"P.č.":"FAS AHU 05-16.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 05-16.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 05-16.004","Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7)."}
+{"P.č.":"FAS AHU 05-16.005","Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5)."}
+{"P.č.":"FAS AHU 05-16.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 05-16.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 05-16.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 05-16.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 05-16.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 05-16.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 05-16.012","Popis":"Elektrický ohrievač s reguláciou výkonu\n- MBE 250\/9,0 R2"}
+{"P.č.":"FAS AHU 05-16.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 05-16.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 05-16.101","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 05-16.101a","Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 05-16.102","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.103","Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.104","Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná"}
+{"P.č.":"FAS AHU 05-16.201","Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima"}
+{"P.č.":"FAS AHU 05-16.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 05-16.251","Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%."}
+{"P.č.":"FAS AHU 05-16.252","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 05-16.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 05-16.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 05-16.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 05-16.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 355, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.708","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 900, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.709","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.710","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 05-16.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 05-16.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 05-16.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 05-16.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 05-16.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 17-19","Popis":"Hall ventilation - Logistic Area with mixing"}
+{"P.č.":"FAS AHU 17-19.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n"}
+{"P.č.":"FAS AHU 17-19.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 17-19.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 17-19.004","Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7)."}
+{"P.č.":"FAS AHU 17-19.005","Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5)."}
+{"P.č.":"FAS AHU 17-19.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 17-19.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 17-19.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 17-19.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 17-19.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 17-19.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 17-19.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 17-19.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 17-19.101","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 17-19.101a","Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 17-19.102","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 900x900 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 17-19.102a","Popis":"Tlmič hluku štvorhranný \n- 900x900 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 17-19.103","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 17-19.103a","Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 17-19.104","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 17-19.104a","Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 17-19.101","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.102","Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.103","Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná"}
+{"P.č.":"FAS AHU 17-19.201","Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima"}
+{"P.č.":"FAS AHU 17-19.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 17-19.251","Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%."}
+{"P.č.":"FAS AHU 17-19.252","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 17-19.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 900x900.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 17-19.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 17-19.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 17-19.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 17-19.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 17-19.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 17-19.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 400, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.708","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.709","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.710","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 17-19.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 17-19.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 17-19.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 17-19.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 17-19.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 21","Popis":"Hall ventilation - Audit "}
+{"P.č.":"FAS AHU 21.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 16.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 16.000 m3\/h, pri externom tlaku 260 Pa\n"}
+{"P.č.":"FAS AHU 21.002","Popis":"Pružná manžeta  2 400 x 1 200 mm."}
+{"P.č.":"FAS AHU 21.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 21.004","Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7)."}
+{"P.č.":"FAS AHU 21.005","Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5)."}
+{"P.č.":"FAS AHU 21.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 21.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 21.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 21.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 21.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 21.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 21.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1000-1000\/12\/50\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 21.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.2400x1200-1500\/9\/67\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 21.101","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 21.101a","Popis":"Tlmič hluku štvorhranný \n- 1000x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 21.102","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x800 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 21.102a","Popis":"Tlmič hluku štvorhranný \n- 1000x800 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 21.103","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 21.201","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 21.251","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 21.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 2 400 x 1 200 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 21.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n2 400 x 1 200 mm\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 21.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 21.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 21.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 21.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 21.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 21.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 21.902","Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“"}
+{"P.č.":"FAS AHU 21.950","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 200 x 1 200 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 21.951","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 22","Popis":"Inbuilts ventilation - Kaizen + Plt, Warehouse, Calibration, Toilets, Breakroom"}
+{"P.č.":"FAS AHU 22.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 20.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 20.000 m3\/h, pri externom tlaku 380 Pa\n"}
+{"P.č.":"FAS AHU 22.002","Popis":"Pružná manžeta  2 400 x 1 200 mm."}
+{"P.č.":"FAS AHU 22.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 22.004","Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7)."}
+{"P.č.":"FAS AHU 22.005","Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5)."}
+{"P.č.":"FAS AHU 22.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 22.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 22.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 22.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 22.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 22.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 22.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1000-1000\/12\/50\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 22.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.2400x1200-1500\/9\/67\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 22.101","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 22.101a","Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 22.102","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 22.102a","Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 22.103","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 22.103a","Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 22.104","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 22.104a","Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 22.105","Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.106","Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.107","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.201","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 22.202","Popis":"Výustka do hranatého potrubia\n- NOVA A_1-500x300-R1-H-RAL"}
+{"P.č.":"FAS AHU 22.251","Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením"}
+{"P.č.":"FAS AHU 22.252","Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením"}
+{"P.č.":"FAS AHU 22.251","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 22.252","Popis":"Výustka do hranatého potrubia\n- NOVA A_1-500x300-R1-H-RAL"}
+{"P.č.":"FAS AHU 22.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 22.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 22.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 22.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1100x500.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 22.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 22.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 22.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 2 400 x 1 200 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 22.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n2 400 x 1 200 mm\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 22.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 22.602","Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 22.603","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 22.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 160% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 160% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.708","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.709","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.710","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 22.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 22.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 22.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 22.902","Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“"}
+{"P.č.":"FAS AHU 22.950","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 200 x 1 200 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 22.951","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 23","Popis":"Inbuilts ventilation - Canteen + Break room + Warm up Kitchen + Toilets"}
+{"P.č.":"FAS AHU 23.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 400 Pa\n"}
+{"P.č.":"FAS AHU 23.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 23.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 23.004","Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7)."}
+{"P.č.":"FAS AHU 23.005","Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5)."}
+{"P.č.":"FAS AHU 23.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 23.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 23.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 23.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 23.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 23.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 23.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 23.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 23.101","Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.102","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.103","Popis":"Regulačná klapka do potrubia\n- DN 315\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.104","Popis":"Regulačná klapka do potrubia\n- 800 x 710\n- viaclistá, vr. ručného ovládania\n- pozinkovaná"}
+{"P.č.":"FAS AHU 23.105","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 23.105a","Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 23.106","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 23.106a","Popis":"Tlmič hluku štvorhranný \n- 600x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 23.107","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 23.107a","Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 23.108","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 23.108a","Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 23.201","Popis":"Prívodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou"}
+{"P.č.":"FAS AHU 23.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 23.251","Popis":"Odsávací zákryt nerezový s indukciou\n- 2x pripojovacie hrdlo\n- 4500x1000 v:600\n- osvetlenie\n- vrátane odkvapovej vaničky na odvod kondenzátu"}
+{"P.č.":"FAS AHU 23.251a","Popis":"Harmonizácia zákrytov"}
+{"P.č.":"FAS AHU 23.253","Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením"}
+{"P.č.":"FAS AHU 23.255","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 23.301","Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-525x225-R1-H-RAL"}
+{"P.č.":"FAS AHU 23.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 400x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 23.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 23.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 23.402","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 900x315.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 23.402a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 23.402b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 23.403","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 23.403a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 23.403b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 23.404","Popis":"Požiarna klapka - požiarny stenový uzáver - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 560 x 560.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 23.401","Popis":"Krycia mriežka na potrubie.\n- 560 x 560 mm,\n- pozinkovaná, čistá plocha 64%."}
+{"P.č.":"FAS AHU 23.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 23.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 23.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 23.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 23.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 23.602","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 23.603","Popis":"Ohybná Al laminátová hadica SONOFLEX DN315\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 23.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 23.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 23.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 23.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 23.902","Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“"}
+{"P.č.":"FAS AHU 23.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 23.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 24","Popis":"Inbuilts ventilation - Kitchen"}
+{"P.č.":"FAS AHU 24.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 25.000 m3\/h, pri externom tlaku 400 Pa\n"}
+{"P.č.":"FAS AHU 24.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 24.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 24.004","Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7)."}
+{"P.č.":"FAS AHU 24.005","Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5)."}
+{"P.č.":"FAS AHU 24.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 24.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 24.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 24.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 24.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 24.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 24.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 24.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 24.101","Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.102","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.103","Popis":"Regulačná klapka do potrubia\n- 800 x 710\n- viaclistá, vr. ručného ovládania\n- pozinkovaná"}
+{"P.č.":"FAS AHU 24.104","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 160 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 24.104a","Popis":"Tlmič hluku \n- DN 160 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 24.105","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 24.105a","Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 24.201","Popis":"Prívodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou"}
+{"P.č.":"FAS AHU 24.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 300x300\/9\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 24.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 24.251","Popis":"Odsávací zákryt nerezový s indukciou\n- 2x pripojovacie hrdlo\n- 4500x1000 v:600\n- osvetlenie\n- vrátane odkvapovej vaničky na odvod kondenzátu"}
+{"P.č.":"FAS AHU 24.251a","Popis":"Harmonizácia zákrytov"}
+{"P.č.":"FAS AHU 24.252","Popis":"Odvodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou"}
+{"P.č.":"FAS AHU 24.253","Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením"}
+{"P.č.":"FAS AHU 24.254","Popis":"Anemostat - odvodný\n- čelná doska do rastra 300x300\/9\/27\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 24.255","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 24.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 710x500.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 24.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 24.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 24.402","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x560.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 24.402a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 24.402b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 24.403","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x630.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 24.403a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 24.403b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 24.404","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ -1250x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 24.404a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 24.404b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 24.405","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ -1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 24.405a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 24.405b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 24.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 24.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 24.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 24.602","Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 24.603","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 24.604","Popis":"Ohybná Al laminátová hadica SONOFLEX DN315\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 24.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 24.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 24.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 24.902","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 24.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 24.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 25","Popis":"Inbuilts ventilation - Canteen + Break room+Mechanical room "}
+{"P.č.":"FAS AHU 25.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 35.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 35.000 m3\/h, pri externom tlaku 400 Pa\n"}
+{"P.č.":"FAS AHU 25.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 25.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 25.004","Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7)."}
+{"P.č.":"FAS AHU 25.005","Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5)."}
+{"P.č.":"BIW AHU 25.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 25.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 25.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 25.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 25.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 25.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 25.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 25.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 25.101","Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.102","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.103","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.103a","Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.104","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 500x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.104a","Popis":"Tlmič hluku štvorhranný \n- 500x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.105","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.105a","Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.106","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x600 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.106a","Popis":"Tlmič hluku štvorhranný \n- 800x600 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.107","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.107a","Popis":"Tlmič hluku štvorhranný \n- 1000x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.108","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.108a","Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.109","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 25.109a","Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 25.201","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/45\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 25.202","Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou."}
+{"P.č.":"FAS AHU 25.251","Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením"}
+{"P.č.":"FAS AHU 25.252","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/45\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 25.253","Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou."}
+{"P.č.":"FAS AHU 25.401","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 250.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 25.401a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 25.401b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 25.402","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 400x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 25.402a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 25.402b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 25.403","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x600.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 25.403a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 25.403b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 25.404","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 25.404a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 25.404b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 25.405","Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\","}
+{"P.č.":"FAS AHU 25.405a","Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov."}
+{"P.č.":"FAS AHU 25.405b","Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku."}
+{"P.č.":"FAS AHU 25.501","Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch."}
+{"P.č.":"FAS AHU 25.551","Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%"}
+{"P.č.":"FAS AHU 25.601","Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 25.602","Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm"}
+{"P.č.":"FAS AHU 25.701","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.702","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.703","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.704","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.705","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.706","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.707","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.708","Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 25.801","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 25.802","Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)"}
+{"P.č.":"FAS AHU 25.901","Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí"}
+{"P.č.":"FAS AHU 25.902","Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“"}
+{"P.č.":"FAS AHU 25.951","Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,"}
+{"P.č.":"FAS AHU 25.952","Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT."}
+{"P.č.":"pozn.","Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL"}
+{"P.č.":"pozn.","Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sokel pod VZT jednotku - dod. stavby"}
+{"P.č.":"pozn.","Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Stenové, popr. dverné mriežky - dod. Stavby"}
+{"P.č.":"pozn.","Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI"}
+{"P.č.":"pozn.","Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR"}
+{"P.č.":"FAS AHU 26","Popis":"Inbuilts ventilation - Lockers 2nd Floor + Break room Ground Floor"}
+{"P.č.":"FAS AHU 26.001","Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 30.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 30.000 m3\/h, pri externom tlaku 380 Pa\n"}
+{"P.č.":"FAS AHU 26.002","Popis":"Pružná manžeta  3 100 x 1 500 mm."}
+{"P.č.":"FAS AHU 26.003","Popis":"Ryhovaná guma na osadenie VZT jednotky."}
+{"P.č.":"FAS AHU 26.004","Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7)."}
+{"P.č.":"FAS AHU 26.005","Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5)."}
+{"P.č.":"FAS AHU 26.006","Popis":"Náhradná sada kovového filtra Metal G3."}
+{"P.č.":"FAS AHU 26.007","Popis":"Príplatok za montáž deleného rotačného výmenníka."}
+{"P.č.":"FAS AHU 26.008","Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia."}
+{"P.č.":"FAS AHU 26.009","Popis":"Montážne mechanizmy na zloženie jednotky."}
+{"P.č.":"FAS AHU 26.010","Popis":"Montážny materiál a dotesňovací materiál."}
+{"P.č.":"FAS AHU 26.011","Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou."}
+{"P.č.":"FAS AHU 26.051","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 26.052","Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch"}
+{"P.č.":"FAS AHU 26.101","Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 26.102","Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením"}
+{"P.č.":"FAS AHU 26.103","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 26.103a","Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}
+{"P.č.":"FAS AHU 26.104","Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x300 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V."}
+{"P.č.":"FAS AHU 26.104a","Popis":"Tlmič hluku štvorhranný \n- 500x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku"}

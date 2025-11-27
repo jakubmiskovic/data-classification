@@ -1,3 +1,154 @@
-{"Filter": "Brzdy", "Description": "Servis brzdového systému"}
-{"Filter": "Motor", "Description": "Opravy a diagnostika motora"}
-{"Filter": "Pneumatiky", "Description": "Výmena a vyvažovanie pneumatík"}
+{"Filter":"2V","Popis":"dvojcestný ventil"}
+{"Filter":"3V","Popis":"trojcestný prepínací ventil"}
+{"Filter":"AKAN","Popis":"Akustická kanalizácia"}
+{"Filter":"AN","Popis":"anemostat"}
+{"Filter":"AOV","Popis":"automatické odzdušňovacie ventily"}
+{"Filter":"ARM","Popis":"šroubenia, tesnenia k armatúram, ..."}
+{"Filter":"ARMP","Popis":"parné armatúry"}
+{"Filter":"ARMVT","Popis":"armatúry k vykurovacím telesám"}
+{"Filter":"ARMZTI","Popis":"Batérie, sprchové sady"}
+{"Filter":"ATS","Popis":"Automatická tlaková stanica"}
+{"Filter":"BKT","Popis":"aktivácia betónového jadra (BetonKernTemperierung)"}
+{"Filter":"BOS","Popis":"bytová odovzdávacia stanica"}
+{"Filter":"CER","Popis":"čerpadlo"}
+{"Filter":"CLO","Popis":"vzduchová clona"}
+{"Filter":"CN","Popis":"čisté nástavce"}
+{"Filter":"CU","Popis":"medené potrubia"}
+{"Filter":"DEMONT","Popis":"demontážne práce"}
+{"Filter":"DEVI","Popis":"DEVI kábel, podlahové vykurovanie DEVI"}
+{"Filter":"DIG","Popis":"digestor, odsávacie zákryty"}
+{"Filter":"DKAN","Popis":"Dažďová kanalizácia"}
+{"Filter":"DM","Popis":"dverová mriežka"}
+{"Filter":"DOPR","Popis":"doprava"}
+{"Filter":"DVT","Popis":"doskový výmenník tepla"}
+{"Filter":"DYZ","Popis":"dýzy"}
+{"Filter":"ELE","Popis":"elektroinštalácia"}
+{"Filter":"EUROT","Popis":"eurotis, ohybné pancierové hadice pre dopoj FC"}
+{"Filter":"EXP","Popis":"expanzná nádoba, akumulačná nádoba, teplovodný zásobník"}
+{"Filter":"FC","Popis":"fan-coil"}
+{"Filter":"FKAZ","Popis":"filtračná kazeta"}
+{"Filter":"FPO","Popis":"filter - oceľové potrubie"}
+{"Filter":"FVZT","Popis":"vzduchový filter"}
+{"Filter":"GK","Popis":"guľový ventil (kohút)"}
+{"Filter":"HVDT","Popis":"hydraulický vyrovnávač dynamických tlakov, anuloid"}
+{"Filter":"CHILL","Popis":"chiller, chladič"}
+{"Filter":"CHL","Popis":"chladenie"}
+{"Filter":"CHLAD","Popis":"chladivo, nemrznúca zmes - glykol"}
+{"Filter":"CHLTR","Popis":"chladiace trámy"}
+{"Filter":"IZAKU","Popis":"izolácia akustická"}
+{"Filter":"IZOPL","Popis":"izolácia + oplechovanie"}
+{"Filter":"IZPO","Popis":"izolácia oceľových rozvodov"}
+{"Filter":"IZPOZ","Popis":"protipožiarna izolácia"}
+{"Filter":"IZVZT","Popis":"izolácia VZT potrubia"}
+{"Filter":"KJOST","Popis":"ostatná klimatizačná jednotka (napr. mobilka, kondenzačná jednotka)"}
+{"Filter":"KM","Popis":"krycia mriežka"}
+{"Filter":"KOM","Popis":"komín, dymovod"}
+{"Filter":"KOMP","Popis":"kompenzátor"}
+{"Filter":"KOND","Popis":"kondenzačná jednotka"}
+{"Filter":"KONV","Popis":"vykurovacie telesá - konvektor"}
+{"Filter":"KOT","Popis":"kotol"}
+{"Filter":"KS","Popis":"kruhová strieška"}
+{"Filter":"LAM","Popis":"laminárny strop"}
+{"Filter":"LES","Popis":"lešenie, plošiny"}
+{"Filter":"MAN","Popis":"manometer (tlakomer)"}
+{"Filter":"MAR","Popis":"dodávka a montáž MaR"}
+{"Filter":"MM","Popis":"montážny materiál"}
+{"Filter":"MONT","Popis":"montážne práce"}
+{"Filter":"MPK","Popis":"medziprírubová klapka"}
+{"Filter":"MTCHL","Popis":"merače tepla alebo merač chladu, vodomer"}
+{"Filter":"NAT","Popis":"nátery"}
+{"Filter":"NH","Popis":"nasávacia hlavica, samoťahová hlavica CAGI"}
+{"Filter":"OBJ","Popis":"objímky"}
+{"Filter":"ODSS","Popis":"odsávací strop"}
+{"Filter":"ODV","Popis":"odvlhčovacia jednotka"}
+{"Filter":"OH","Popis":"ohybná hadica"}
+{"Filter":"OHR","Popis":"ohrievač elektrický, vodný, chladič do potrubia"}
+{"Filter":"OST","Popis":"ostatné"}
+{"Filter":"OT","Popis":"odlučovač tuku"}
+{"Filter":"OTV","Popis":"otvor vo VZT potrubí"}
+{"Filter":"OV","Popis":"odvzdušňovací ventil"}
+{"Filter":"OVAL","Popis":"oválne potrubie"}
+{"Filter":"PB","Popis":"pevné body+ klzné uloženie"}
+{"Filter":"PIR","Popis":"PIR potrubie"}
+{"Filter":"PIZP","Popis":"Predstenové inštalácie a zriaďovacie predmety"}
+{"Filter":"PK","Popis":"požiarna klapka, požiarny stenový uzáver, požiarny tanierový ventil"}
+{"Filter":"PKON","Popis":"potrubie na odvod kondenzu"}
+{"Filter":"PLAST","Popis":"plastové potrubie VZT"}
+{"Filter":"PLU","Popis":"Pluvia"}
+{"Filter":"PLYN","Popis":"plynoinštalácia"}
+{"Filter":"PO","Popis":"oceľové potrubie"}
+{"Filter":"PODL","Popis":"podlahové vykurovanie"}
+{"Filter":"PON","Popis":"nerezová oceľ"}
+{"Filter":"POU","Popis":"potrubie uhlíkové"}
+{"Filter":"POZV","Popis":"Hydrantový systém"}
+{"Filter":"PPAL","Popis":"plasthliníkové potrubie"}
+{"Filter":"PPAR","Popis":"parné potrubie"}
+{"Filter":"PPR","Popis":"plastové potrubie"}
+{"Filter":"PRENAJOM","Popis":"Prenájom"}
+{"Filter":"PRIR","Popis":"prírubové spoje"}
+{"Filter":"PS","Popis":"vzt SPIRO potrubie"}
+{"Filter":"PTK","Popis":"pretlaková klapka"}
+{"Filter":"PUPCH","Popis":"požiarna upchávka"}
+{"Filter":"PV","Popis":"poistný ventil"}
+{"Filter":"PVZT","Popis":"vzt 4-hranné potrubie"}
+{"Filter":"PZ","Popis":"protidažďová žalúzia"}
+{"Filter":"RAD","Popis":"vykurovacie telesá - radiátory"}
+{"Filter":"RAL","Popis":"farebné prevedenie"}
+{"Filter":"RECYKL.POPL.","Popis":"Recyklačný poplatok"}
+{"Filter":"REKJ","Popis":"rekuperačné jednotky (malé, stenové, ...)"}
+{"Filter":"REKL","Popis":"reklamácia"}
+{"Filter":"RHV","Popis":"Guľový ventil rohový chrom mosadz – nástenka"}
+{"Filter":"RK","Popis":"regulačná klapka"}
+{"Filter":"RKP","Popis":"regulátor konštantného prietoku"}
+{"Filter":"ROOF","Popis":"roof top"}
+{"Filter":"ROZ","Popis":"rozdeľovače a zberače"}
+{"Filter":"RPD","Popis":"Realizačná projektová dokumentácia"}
+{"Filter":"RPP","Popis":"regulátor premenlivého prietoku"}
+{"Filter":"RV","Popis":"regulačný ventil"}
+{"Filter":"SAH","Popis":"sahara"}
+{"Filter":"SCHL","Popis":"stropné chladenie"}
+{"Filter":"SK","Popis":"spätná klapka"}
+{"Filter":"SKAN","Popis":"Splašková kanalizácia"}
+{"Filter":"SKU","Popis":"skúšky zariadení"}
+{"Filter":"SKVZT","Popis":"samočinná VZT klapka"}
+{"Filter":"SLUZ","Popis":"Služby"}
+{"Filter":"SM","Popis":"stenová mriežka"}
+{"Filter":"SOL","Popis":"solár"}
+{"Filter":"SPLIT","Popis":"SPLIT zariadenie"}
+{"Filter":"STAV","Popis":"Dodávka stavby"}
+{"Filter":"SUK","Popis":"stropné vykurovanie"}
+{"Filter":"SZM","Popis":"stenová požiarna zapeňovacia mriežka"}
+{"Filter":"TCER","Popis":"tepelné čerpadlo"}
+{"Filter":"TEPL","Popis":"teplomer"}
+{"Filter":"TEXT","Popis":"Poznámky a textové polia na riadku"}
+{"Filter":"TH","Popis":"tlmič hluku"}
+{"Filter":"TV","Popis":"tanierový ventil"}
+{"Filter":"TVL","Popis":"tlmiaca vložka"}
+{"Filter":"UK","Popis":"vykurovanie"}
+{"Filter":"UV","Popis":"úpravovňa vody"}
+{"Filter":"V","Popis":"ventilátor"}
+{"Filter":"VH","Popis":"výfuková hlavica"}
+{"Filter":"VICT","Popis":"VICTAULIC potrubie"}
+{"Filter":"VK","Popis":"vypúšťací ventil (kohút)"}
+{"Filter":"VOST","Popis":"ostatný ventil"}
+{"Filter":"VP","Popis":"vyvíjač pary"}
+{"Filter":"VPUST","Popis":"Vtoky, vpuste"}
+{"Filter":"VRV","Popis":"VRV systém"}
+{"Filter":"VS","Popis":"výmenníková stanica"}
+{"Filter":"VT","Popis":"vykurovacie telesá - ostatné (sušiče, el.telesá...)"}
+{"Filter":"VY","Popis":"výustka"}
+{"Filter":"VYOST","Popis":"výustky ostatné - veľkoobjemové, veľkoplošné, ..."}
+{"Filter":"VYST","Popis":"štrbinová výustka"}
+{"Filter":"VYTEX","Popis":"výustky textilné"}
+{"Filter":"VZT","Popis":"vzduchotechnika"}
+{"Filter":"VZTJ","Popis":"vzduchotechnická jednotka"}
+{"Filter":"VZTJCHL","Popis":"vzduchotechnická jednotka s integrovaným systémom chladenia"}
+{"Filter":"ZEM","Popis":"Zemné práce"}
+{"Filter":"ZER","Popis":"žeriav"}
+{"Filter":"ZODT","Popis":"zariadenie na odvod dymu a tepla"}
+{"Filter":"ZP","Popis":"Zriadovacie predmety"}
+{"Filter":"ZPU","Popis":"Zápachová uzávierka (sifóny)"}
+{"Filter":"ZREG","Popis":"Zónová regulácia"}
+{"Filter":"ZS","Popis":"Zariadenie staveniska"}
+{"Filter":"ZTI","Popis":"zdravotechnika"}
+{"Filter":"ZVLH","Popis":"zvlhčovač"}
