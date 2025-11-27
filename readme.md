@@ -31,9 +31,19 @@ Prepare three JSONL files (sample files are in `data/`):
 The repository includes small starter files so you can run end-to-end immediately:
 
 - `data/filters.jsonl` — three filters with short descriptions.
-- `data/train.jsonl` — five labeled Popis/Filter examples for training.
+- `data/train.jsonl` — six labeled Popis/Filter examples for training (including one multiline Popis).
 - `data/val.jsonl` — three labeled examples for evaluation.
 - `data/unlabeled.jsonl` — three Popis entries without labels for prediction.
+
+### Multiline descriptions
+
+JSONL requires one object per line. If your Popis text contains line breaks, escape them as `\\n` so the file stays single-lined; the loader and tokenizer will restore the newline characters during training. Example:
+
+```jsonl
+{"Popis": "Kontrola brzdových hadičiek\\nZákazník nahlásil únik kvapaliny", "Filter": "Brzdy"}
+```
+
+The sample `data/train.jsonl` already includes one such multiline entry so you can verify ingestion end-to-end.
 
 ## Train and evaluate on local JSONL files
 
