@@ -37,7 +37,7 @@ def parse_args() -> argparse.Namespace:
     dataset_group.add_argument(
         "--dataset_name",
         type=str,
-        help="Dataset name from the 🤗 Hub (e.g., 'imdb' or 'ag_news').",
+        help="Dataset name from the 🤗 Hub (e.g., 'ag_news').",
     )
     dataset_group.add_argument(
         "--train_file",

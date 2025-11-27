@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Data layout
 
-Prepare three JSONL files:
+Prepare three JSONL files (sample files are in `data/`):
 
 - **Training/Eval data** (`--train_file`, `--eval_file`): each line includes `Popis` (text) and `Filter` (label). Example:
 
@@ -28,9 +28,16 @@ Prepare three JSONL files:
 
 - **Unlabeled data** (`--predict_file`): only `Popis` (and any extra context fields you want to keep in the output).
 
+The repository includes small starter files so you can run end-to-end immediately:
+
+- `data/filters.jsonl` — three filters with short descriptions.
+- `data/train.jsonl` — five labeled Popis/Filter examples for training.
+- `data/val.jsonl` — three labeled examples for evaluation.
+- `data/unlabeled.jsonl` — three Popis entries without labels for prediction.
+
 ## Train and evaluate on local JSONL files
 
-Fine-tune a multilingual BERT model on your labeled Slovak data and restrict labels to the provided filter list:
+Fine-tune a multilingual BERT model on your labeled Slovak data (or the included sample files) and restrict labels to the provided filter list:
 
 ```bash
 python train.py \
