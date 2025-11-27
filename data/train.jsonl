@@ -1,0 +1,1201 @@
+{"Popis":"Vzduchotechnika a chladenie - 605","filter":null}
+{"Popis":"Final Assembly","filter":null}
+{"Popis":"Hall ventilation - Production area without mixing","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 315 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 315 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima","filter":"VYOST"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodní\n- čelní deska do rastru 600x600\/54\/RAL 9010 - černé lamely;\n- vč. připojovací krabice s bočním připojení DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%.","filter":"KM"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN355.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 355, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 900, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Hall ventilation - Production area with mixing","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Elektrický ohrievač s reguláciou výkonu\n- MBE 250\/9,0 R2","filter":"OHR"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná","filter":"RK"}
+{"Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima","filter":"VYOST"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%.","filter":"KM"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 355, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 900, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Hall ventilation - Logistic Area with mixing","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 280 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1500x1500-1000\/7\/114\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 900x900 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 900x900 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 800 x 800\n- viaclistá, vr. ručného ovládania\n- pozinkovaná","filter":"RK"}
+{"Popis":"Zaplavovacia kruhová výusť - vertikálna - pozinkovaná\n- DN 630 - 1,5 m \n- bez príruby na vsunutie s dvojbritým tesnením s klapkou\n- vr. retiazky a koncové guličky na prepínanie režimu leto\/zima","filter":"VYOST"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Krycia mriežka na potrubie.\n- 1 400 x 1 400 mm,\n- pozinkovaná, čistá plocha 75%.","filter":"KM"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 900x900.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 400, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 630, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 900, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% rovné\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1120, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Hall ventilation - Audit ","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 16.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 16.000 m3\/h, pri externom tlaku 260 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  2 400 x 1 200 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1000-1000\/12\/50\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.2400x1200-1500\/9\/67\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x800 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x800 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 2 400 x 1 200 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n2 400 x 1 200 mm\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 200 x 1 200 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Kaizen + Plt, Warehouse, Calibration, Toilets, Breakroom","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 20.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 20.000 m3\/h, pri externom tlaku 380 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  2 400 x 1 200 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1000-1000\/12\/50\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.2400x1200-1500\/9\/67\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-500x300-R1-H-RAL","filter":"VY"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-500x300-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1100x500.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer 2 400 x 1 200 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n2 400 x 1 200 mm\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 160% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 160% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 200 x 1 200 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":null,"filter":"TEXT"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Canteen + Break room + Warm up Kitchen + Toilets","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 40.000 m3\/h, pri externom tlaku 400 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 315\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 800 x 710\n- viaclistá, vr. ručného ovládania\n- pozinkovaná","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Prívodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou","filter":"AN"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Odsávací zákryt nerezový s indukciou\n- 2x pripojovacie hrdlo\n- 4500x1000 v:600\n- osvetlenie\n- vrátane odkvapovej vaničky na odvod kondenzátu","filter":"DIG"}
+{"Popis":"Harmonizácia zákrytov","filter":"DIG"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-525x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 400x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 900x315.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarny stenový uzáver - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 560 x 560.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Krycia mriežka na potrubie.\n- 560 x 560 mm,\n- pozinkovaná, čistá plocha 64%.","filter":"KM"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN315\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Kitchen","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 40.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 25.000 m3\/h, pri externom tlaku 400 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 800 x 710\n- viaclistá, vr. ručného ovládania\n- pozinkovaná","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 160 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 160 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Prívodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou","filter":"AN"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 300x300\/9\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Odsávací zákryt nerezový s indukciou\n- 2x pripojovacie hrdlo\n- 4500x1000 v:600\n- osvetlenie\n- vrátane odkvapovej vaničky na odvod kondenzátu","filter":"DIG"}
+{"Popis":"Harmonizácia zákrytov","filter":"DIG"}
+{"Popis":"Odvodný anemostat, štvorhranný, veľkoobjemový, horizontálne pripojenie\n- ADQ-H 600 d315\n- vr. pripojovacia krabica s bočným pripojením DN 315 a s klapkou","filter":"AN"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 300x300\/9\/27\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 710x500.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x560.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x630.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ -1250x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ -1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN315\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Canteen + Break room+Mechanical room ","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 35.000 m3\/h, pri externom tlaku 400 Pa\nOdvod: 35.000 m3\/h, pri externom tlaku 400 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 500x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 500x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x600 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 800x600 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x1000 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x1000 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/45\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/45\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 250.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 400x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x600.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1400x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Lockers 2nd Floor + Break room Ground Floor","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 30.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 30.000 m3\/h, pri externom tlaku 380 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 400x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 400x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x300 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 500x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 900x300 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 900x300 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu od 0,8 do 8 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda C.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-525x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 250.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 400x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 000 x 1 000 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.\n- 32 m","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Lockers Ground Floor + 1st Floor","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 30.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 30.000 m3\/h, pri externom tlaku 380 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  3 100 x 1 500 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 60% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 55% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1100-1500\/8\/125\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.3100x1500-1500\/10\/110\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 800x400 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 800x400 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 1000x500 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 1000x500 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 600x300 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 600x300 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- 900x300 - MODBUS RTU \n- Napájanie 24 V\n- Vr. akustického obalu.\nVhodné pre rýchlosť prúdenia vzduchu do 10 m\/s.\nNetesnosť pri zatvorenom liste podľa STN EN 1751, až trieda 4.\nNetesnosť plášťa podľa EN 1751, trieda B.\nVysoká presnosť regulácie aj pri ohybe na nátokovej strane (R=1D).\nOvládanie 2-10V.","filter":"RPP"}
+{"Popis":"Tlmič hluku štvorhranný \n- 900x300 - dĺžka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 as klapkou.","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-525x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 800x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1200x500.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  3 100 x 1 500 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 3100 x 1500 \n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Protipožiarna izolácia\n- odolnosť 60 min\n- odolnosť z oboch strán „i ↔ o“","filter":"IZPOZ"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 500 x 1 500 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Inbuilts ventilation - Office + toilets - Chilled beams","filter":"TEXT"}
+{"Popis":"VZT jednotka - vonkajšie prevedenie.\n\nPrívod: 15.000 m3\/h, pri externom tlaku 380 Pa\nOdvod: 15.000 m3\/h, pri externom tlaku 380 Pa\n","filter":"VZTJ"}
+{"Popis":"Pružná manžeta  1 800 x 1 000 mm.","filter":"TVL"}
+{"Popis":"Ryhovaná guma na osadenie VZT jednotky.","filter":"IZAKU"}
+{"Popis":"Náhradná súprava kapsového filtra ePM1 50% (F7).","filter":"FVZT"}
+{"Popis":"Náhradná súprava kapsového filtra ePM10 60% (M5).","filter":"FVZT"}
+{"Popis":"Náhradná sada kovového filtra Metal G3.","filter":"FVZT"}
+{"Popis":"Príplatok za montáž deleného rotačného výmenníka.","filter":"MONT"}
+{"Popis":"Dodávka vzduchotechnickej jednotky po komorách - zostavenie vzduchotechnickej jednotky na mieste, kompletizácia, dotesnenie a kontrola prevedenia. Traja ľudia.","filter":"MONT"}
+{"Popis":"Montážne mechanizmy na zloženie jednotky.","filter":"ZER"}
+{"Popis":"Montážny materiál a dotesňovací materiál.","filter":"MM"}
+{"Popis":"Kotviaci materiál - medzi vzduchotechnickou jednotkou a oceľovou konštrukciou.","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1800x1000-1000\/12\/50\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 20.1800x1000-1500\/9\/100\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- WISE DAMPER SWEGON\n- DN 250 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\n","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 250 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- WISE DAMPER SWEGON\n- DN 400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\n","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- DN 400 - délka 900mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Regulátor prietoku variabilný regulovaný na prietok\n- WISE DAMPER SWEGON\n- 600x400 - MODBUS RTU \n- Prvok je možné osadiť napr. za koleno (bez nutnosti ukľudňovacej dĺžky) !\n- Napájanie 24 V\n- Vr. akustického obalu.\n","filter":"RPP"}
+{"Popis":"Tlmič hluku \n- 600x400- délka 1000mm\n- Certifikovaný útlm s regulátorom prietoku","filter":"TH"}
+{"Popis":"Štvorrúrkový indukčný trám \n- prevedenie bez podhľadu (industriálne) \n- vrátane ovládacích armatúr, regulátora prietoku a riadiaceho systému \n- WISE Parasol Z d 1192-B-125-2","filter":"CHLTR"}
+{"Popis":"Vírivý anemostat - prívodný \n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia krabica s bočným pripojením DN 250 a s klapkou.","filter":"AN"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia škatuľa s bočným pripojením DN 250 a s klapkou","filter":"AN"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 600x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Sací kryt - nezapustený - lamely sú v exteriéri 240 mm.\n- Rozmer  1 800 x 1 000 mm,\n- voľná plocha min. 80% prierezu,\n- RAL podľa Arch.","filter":"VZTJ"}
+{"Popis":"Výfukový nadstavec vr. krycie mriežky na potrubie - prechodové koleno 150°\n- 1 800 x 1 000 mm\n- pozinkovaná, sito proti hmyzu - čistá plocha min. 91%","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN254\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 125, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 125, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 25 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- 1 000 x 1 000 mm,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Oceľová konštrukcia - pre rozvody potrubia VZT.","filter":"MM"}
+{"Popis":"Hranice dodávky výmenníka sú napojovacie hrdlá - regulačný uzol dod. ÚK\/CHL","filter":"UK"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Stenové, popr. dverné mriežky - dod. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubia (HT) pre odvod kondenzátu od VZT jednotiek - dod. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie ventilátorov cez servisné vypínače (dod. VZT), snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Ventilation - TRANSFOEMER RM.","filter":"TEXT"}
+{"Popis":"Stredotlakový axiálny ventilátor vr. izolovaného plášťa.\nDiameter - DN 710.\nV od. = 17.500 m3\/h pri externom tlaku 200 Pa.\nPríkon 3,0 W, napätie 7,6 A, prúd 3f\/400V.\nMaximálna teplota vzduchu je 55 °C.\nMotory IE3, IP55, izolačná trieda F.Horizontálna aj vertikálna montáž\nSFP < 1,500 kW\/m3\/s.\n\nIntegrovaná tepelná ochrana.","filter":"V"}
+{"Popis":"Pružná manžeta - DN 710","filter":"TVL"}
+{"Popis":"Príruba - DN 710","filter":"PRIR"}
+{"Popis":"Ochranná mriežka","filter":"KM"}
+{"Popis":"Tlmič chvenia pružinový\n- 168 kg, sada 4pcs","filter":"TH"}
+{"Popis":"Montážna pätka","filter":"MM"}
+{"Popis":"Montážna konzola","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1600-500\/7\/43\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1200-1500\/5\/100\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia - skladaná\n- 1 000 x 1 200\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 1 000 x 1600\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Krycia mriežka na potrubie.\n- 1 000 x 1 600 mm,\n- pozinkovaná, čistá plocha 75%.","filter":"KM"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-1225x525-R1-H-RAL","filter":"VY"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 1 000 x 1 600\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 2 700 x 1 200\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Ventilation - TRANSFOEMER RM.","filter":"TEXT"}
+{"Popis":"Stredotlakový axiálny ventilátor vr. izolovaného plášťa.\nDiameter - DN 710.\nV od. = 17.500 m3\/h pri externom tlaku 200 Pa.\nPríkon 3,0 W, napätie 7,6 A, prúd 3f\/400V.\nMaximálna teplota vzduchu je 55 °C.\nMotory IE3, IP55, izolačná trieda F.Horizontálna aj vertikálna montáž\nSFP < 1,500 kW\/m3\/s.\n\nIntegrovaná tepelná ochrana.","filter":"V"}
+{"Popis":"Pružná manžeta - DN 710","filter":"TVL"}
+{"Popis":"Príruba - DN 710","filter":"PRIR"}
+{"Popis":"Ochranná mriežka","filter":"KM"}
+{"Popis":"Tlmič chvenia pružinový\n- 168 kg, sada 4pcs","filter":"TH"}
+{"Popis":"Montážna pätka","filter":"MM"}
+{"Popis":"Montážna konzola","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1600-500\/7\/43\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1200-1500\/5\/100\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia - skladaná\n- 1 000 x 1 200\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 1 000 x 1600\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Krycia mriežka na potrubie.\n- 1 000 x 1 600 mm,\n- pozinkovaná, čistá plocha 75%.","filter":"KM"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-1225x525-R1-H-RAL","filter":"VY"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 1 000 x 1 600\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 2 700 x 1 200\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Priechod strechou pre potrubie:\n- 1000 x 1000 mm,\n- sklon strechy do 15 °\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Ventilation - TRANSFOEMER RM.","filter":"TEXT"}
+{"Popis":"Stredotlakový axiálny ventilátor vr. izolovaného plášťa.\nDiameter - DN 710.\nV od. = 17.500 m3\/h pri externom tlaku 200 Pa.\nPríkon 3,0 W, napätie 7,6 A, prúd 3f\/400V.\nMaximálna teplota vzduchu je 55 °C.\nMotory IE3, IP55, izolačná trieda F.Horizontálna aj vertikálna montáž\nSFP < 1,500 kW\/m3\/s.\n\nIntegrovaná tepelná ochrana.","filter":"V"}
+{"Popis":"Pružná manžeta - DN 710","filter":"TVL"}
+{"Popis":"Príruba - DN 710","filter":"PRIR"}
+{"Popis":"Ochranná mriežka","filter":"KM"}
+{"Popis":"Tlmič chvenia pružinový\n- 168 kg, sada 4pcs","filter":"TH"}
+{"Popis":"Montážna pätka","filter":"MM"}
+{"Popis":"Montážna konzola","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1200-1500\/5\/100\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia - skladaná\n- 1 000 x 1 200\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-1225x525-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1200x1000.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Výfuková hlavica\n- DN 1250\n- pozink","filter":"VH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 1250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Dvojplášťový priechod strechou pre potrubie:\n- DN 1250,\n- sklon strechy do 15°\n- pozinkovaný,","filter":"OST"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Ventilation - TRANSFOEMER RM.","filter":"TEXT"}
+{"Popis":"Stredotlakový axiálny ventilátor vr. izolovaného plášťa.\nDiameter - DN 710.\nV od. = 17.500 m3\/h pri externom tlaku 200 Pa.\nPríkon 3,0 W, napätie 7,6 A, prúd 3f\/400V.\nMaximálna teplota vzduchu je 55 °C.\nMotory IE3, IP55, izolačná trieda F.Horizontálna aj vertikálna montáž\nSFP < 1,500 kW\/m3\/s.\n\nIntegrovaná tepelná ochrana.","filter":"V"}
+{"Popis":"Pružná manžeta - DN 710","filter":"TVL"}
+{"Popis":"Príruba - DN 710","filter":"PRIR"}
+{"Popis":"Ochranná mriežka","filter":"KM"}
+{"Popis":"Tlmič chvenia pružinový\n- 168 kg, sada 4pcs","filter":"TH"}
+{"Popis":"Montážna pätka","filter":"MM"}
+{"Popis":"Montážna konzola","filter":"MM"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.1000x1200-1500\/5\/100\n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia - skladaná\n- 1 000 x 1 200\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-1225x525-R1-H-RAL","filter":"VY"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 1000x1200.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 2 700 x 1 200\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - Utilities","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom vr. izolovaného plášťa.\nDiameter - DN 250.\nV od. = 1320 m3\/h pri externom tlaku 200 Pa.\nPríkon 170 W, napätie 1,34 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 70 dB (A), do sania 74 dB (A) a do výfuku 74 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 250.","filter":"V"}
+{"Popis":"Tlmič hluku DN 250 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Spätná klapka do kruhového potrubia\n- RSKW 400, RSK 400\n- plastová","filter":"SK"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-625x125-R1-H-RAL","filter":"VY"}
+{"Popis":"Krycia mriežka na potrubie.\n- 630 x 400 mm,\n- pozinkovaná, čistá plocha 64%.","filter":"KM"}
+{"Popis":"Požiarna klapka - požiarny stenový uzáver - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - 200 x 300.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Krycia mriežka na potrubie.\n- 300 x 300 mm,\n- pozinkovaná, čistá plocha 64%.","filter":"KM"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 315.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ - DN 400.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Výfukový úkos vr. krycie mriežky na potrubie.\n- DN 160 - úkos 45 °,\n- pozinkovaná, čistá plocha min. 90%.","filter":"VH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN400\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - Incoming valve","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom vr. izolovaného plášťa.\nDiameter - DN 160.\nV od. = 350 m3\/h pri externom tlaku 200 Pa.\nPríkon 80 W, napätie 0,68 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 59 dB (A), do sania 69 dB (A) a do výfuku 69 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 160.","filter":"V"}
+{"Popis":"Tlmič hluku DN 160 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- 315 x 250\n- viaclistá, s prípravou na servopohon\n- pozinkovaná","filter":"RK"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-425x125-R1-H-RAL","filter":"VY"}
+{"Popis":"Krycia mriežka na potrubie.\n- 315 x 250 mm,\n- pozinkovaná, čistá plocha 64%.","filter":"KM"}
+{"Popis":"Protidažďová žalúzia s pletivom do potrubia\n- 315 x 250 mm,\n- pozink, čistá plocha min. 65%, RAL podľa arch.","filter":"PZ"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - TOILET ","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom \nDiameter - DN 315.\nV od. = 2630 m3\/h pri externom tlaku 200 Pa.\nPríkon 528 W, napätie 2,32 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 58 dB (A), do sania 79 dB (A) a do výfuku 79 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 315.","filter":"V"}
+{"Popis":"Tlmič hluku DN 315 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 500\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia škatuľa s bočným pripojením DN 250 a s klapkou","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-325x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN250\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - TOILET ","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom \nDiameter - DN 315.\nV od. = 2630 m3\/h pri externom tlaku 200 Pa.\nPríkon 528 W, napätie 2,32 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 58 dB (A), do sania 79 dB (A) a do výfuku 79 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 315.","filter":"V"}
+{"Popis":"Tlmič hluku DN 315 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 500\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia škatuľa s bočným pripojením DN 250 a s klapkou","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-325x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN250\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 315, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 500, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - TOILET ","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom \nDiameter - DN 355.\nV od. = 3950 m3\/h pri externom tlaku 200 Pa.\nPríkon 738 W, napätie 3,24 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 63 dB (A), do sania 83 dB (A) a do výfuku 83 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 355.","filter":"V"}
+{"Popis":"Tlmič hluku DN 355 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia škatuľa s bočným pripojením DN 250 a s klapkou","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-425x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN250\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - TOILET ","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom \nDiameter - DN 355.\nV od. = 3950 m3\/h pri externom tlaku 200 Pa.\nPríkon 738 W, napätie 3,24 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 63 dB (A), do sania 83 dB (A) a do výfuku 83 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 355.","filter":"V"}
+{"Popis":"Tlmič hluku DN 355 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 200\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 630\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 200\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Anemostat - odvodný\n- čelná doska do rastra 600x600\/54\/RAL 9010 - čierne lamely;\n- vr. pripojovacia škatuľa s bočným pripojením DN 250 a s klapkou","filter":"AN"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-425x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN200\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN250\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 200, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 355, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 630, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - DRIVERS TOILET","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom vr. izolovaného plášťa.\nDiameter - DN 160.\nV od. = 300 m3\/h pri externom tlaku 200 Pa.\nPríkon 83 W, napätie 0,72 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 50 dB (A), do sania 59 dB (A) a do výfuku 61 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 160.","filter":"V"}
+{"Popis":"Tlmič hluku DN 160 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-325x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Výfuková hlavica\n- DN 160\n- pozink","filter":"VH"}
+{"Popis":"Priechod strechou pre potrubie:\n- DN 160,\n- sklon strechy do 15 °\n- pozinkovaný, izolovaný","filter":"OST"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - DRIVERS TOILET","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom vr. izolovaného plášťa.\nDiameter - DN 160.\nV od. = 300 m3\/h pri externom tlaku 200 Pa.\nPríkon 83 W, napätie 0,72 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 50 dB (A), do sania 59 dB (A) a do výfuku 61 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 160.","filter":"V"}
+{"Popis":"Tlmič hluku DN 160 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-325x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Výfuková hlavica\n- DN 160\n- pozink","filter":"VH"}
+{"Popis":"Priechod strechou pre potrubie:\n- DN 160,\n- sklon strechy do 15 °\n- pozinkovaný, izolovaný","filter":"OST"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - DRIVERS TOILET","filter":"TEXT"}
+{"Popis":"Potrubný ventilátor s EC motorom vr. izolovaného plášťa.\nDiameter - DN 160.\nV od. = 300 m3\/h pri externom tlaku 200 Pa.\nPríkon 83 W, napätie 0,72 A, prúd 230V.\nMaximálna teplota vzduchu je 55 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do okolia 50 dB (A), do sania 59 dB (A) a do výfuku 61 dB (A),\n\nIntegrovaná tepelná ochrana.\nOtáčky ventilátora je možné riadiť pomocou vstavaného potenciometra a podľa externého signálu 0–10V.","filter":"V"}
+{"Popis":"Rýchloupínacia spona - DN 160.","filter":"V"}
+{"Popis":"Tlmič hluku DN 160 - dĺžka 900mm,","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 160\n- jednolistá, vr. s prípravou na servopohon\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Tanierový ventil - kovový - odvodný\n- DN 160\n- odvodné, RAL 9010\n- vr. montážneho krúžku s tesnením","filter":"TV"}
+{"Popis":"Výustka do hranatého potrubia - prefuk do steny\n- NOVA A_1-325x225-R1-H-RAL","filter":"VY"}
+{"Popis":"Výfuková hlavica\n- DN 160\n- pozink","filter":"VH"}
+{"Popis":"Priechod strechou pre potrubie:\n- DN 160,\n- sklon strechy do 15 °\n- pozinkovaný, izolovaný","filter":"OST"}
+{"Popis":"Ohybná Al laminátová hadica SONOFLEX DN160\n- s tepelnou a hlukovou izoláciou z vrstvy minerálnej vaty hrúbky 25 mm","filter":"OH"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 0% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 160, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 60 mm","filter":"IZVZT"}
+{"Popis":"Tepelná izolácia z minerálnej vaty\n- hr. 80 mm s oplechovaním\n- vo vonkajšom prostredí","filter":"IZOPL"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Air extraction from - KITCHEN","filter":"TEXT"}
+{"Popis":"Strešný ventilátor s radiálnym obežným kolesom s dozadu zahnutými lopatkami, vyrobená z oceľového pozinkovaného plechu.\nPlášť ventilátora je vyrobený z hliníka.\nPrepojovacie potrubie medzi priestorom motora a vonkajším prostredím - ochladenie motora.\nTlmiaca hlavica s izoláciou hrúbky 50 mm.\n\nDiameter - DN 500.\nV od. = 5.000 m3\/h pri externom tlaku 250 Pa.\nPríkon 1,98 kW, napätie 2.91 A, prúd 400V.\nMaximálna teplota vzduchu je 120 °C.\nSFP < 1,500 kW\/m3\/s.\n\nAkustický výkon - do sania 77 dB (A) a do výfuku 82 dB (A)","filter":"V"}
+{"Popis":"Pružná manžeta.","filter":"TVL"}
+{"Popis":"Strešný priechod.","filter":"OST"}
+{"Popis":"Tlmiaci nástavec - výška 1 000 mm.","filter":"TVL"}
+{"Popis":"Potrubný adaptér.","filter":"V"}
+{"Popis":"Nadstavec na zaťaženie snehom.","filter":"V"}
+{"Popis":"Kulisový tlmič hluku štvorhranný\n- THCP - 10.500x500-2000\/2\/150    \n- vr. nábehov na oboch koncoch","filter":"TH"}
+{"Popis":"Regulačná klapka do potrubia\n- 630 x 630\n- viaclistá, s prípravou na servo-pohon\n- pozinkovaná, tesná","filter":"RK"}
+{"Popis":"Odsávací zákryt nerezový s indukciou\n- 2x pripojovacie hrdlo\n- 4500x1000 v:600\n- osvetlenie\n- vrátane odkvapovej vaničky na odvod kondenzátu","filter":"DIG"}
+{"Popis":"Harmonizácia zákrytov","filter":"DIG"}
+{"Popis":"Požiarna klapka - požiarna odolnosť EI 90 S podľa TPM 130\/17.\n- rozmer a typ -  630x630.40, servo-pohon prístupný z oboch strán bez prekrytia krycou mriežkou,\n- vr. servopohonu (230V) a termoelektrického aktivačného zariadenia,\n- s koncovými spínačmi \"OTVORENÉ\" A \"ZATVORENÉ\",","filter":"PK"}
+{"Popis":"Vstupná revízia vr. vystavenie evidenčného štítku, vystavenie knihy požiarnych elementov.","filter":"SKU"}
+{"Popis":"Dotesnenie požiarnej klapky podľa manuálu dodávateľa (90 min), vr. štítku.","filter":"PUPCH"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - ROVNÉ\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Štvorhranné potrubie z pozinkovaného plechu sk. I - TVAROVKY\n- obvod potrubia >3,5m;\n- trieda tesnosti B (III), hr. stupeň (1+4)","filter":"PVZT"}
+{"Popis":"Parotesná kaučuková izolácia\n- hr. 19 mm\n- lepenie Silicon free","filter":"IZVZT"}
+{"Popis":"OK pre potrubie vedené na streche + kotviace oká pre výfukové hlavice - dod. Stavby","filter":"STAV"}
+{"Popis":"Sokel pod VZT jednotku - dod. stavby","filter":"STAV"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":" ","filter":"TEXT"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 250\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Regulačná klapka do potrubia\n- DN 400\n- jednolistá, vr. ručného ovládania\n- pozinkovaná - s dvojbritým tesnením","filter":"RK"}
+{"Popis":"Výustka do hranatého potrubia\n- NOVA A_1-600x100-R1-H-RAL","filter":"VY"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 250, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. Aj\n- DN 400, rovné\n- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 250, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"SPIRO potrubie z pozinkovaného plechu sk. I\n- DN 400, 100% tvarovek\n-- trieda tesnosti C (SAFE), hr. stupeň (1+4), spoje s dvojbritým tesnením","filter":"PS"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dod. Stavby","filter":"STAV"}
+{"Popis":"Silové napájanie ventilátora cez servisný vypínač, snímače a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - MDF - I","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - MDF - II","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - MDF - I","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - MDF - II","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - FAS+PAS RM.","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - FAS+PAS RM.","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - EMERGENCY & LIGHTING","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Cooling - EMERGENCY & LIGHTING","filter":"TEXT"}
+{"Popis":"Invertorová vonkajšia kondenzačná jednotka, celoročná prevádzka, automatický reštart\n- RZASG71MV1\n- Qc = 6,8 kW, R32, dop. istenie 20A - typ C, 230V\/ 50Hz","filter":"SPLIT"}
+{"Popis":"Vnútorná jednotka nástenná\n- FAA71B,\n- Qc = 6,8 kW, R32,\n- napájanie z vonkajšej jednotky,\n- súčasťou dodávky nie je čerpadlo kondenzátu.","filter":"SPLIT"}
+{"Popis":"Súprava na odvod kondenzátu.","filter":"SPLIT"}
+{"Popis":"Adaptér pre výstup na nadradený systém\n- Modbus RTU,\n- porucha \/ chod","filter":"SPLIT"}
+{"Popis":"Káblový nástenný ovládač so slovenským menu.","filter":"SPLIT"}
+{"Popis":"Komunikačná kabeláž medzi vnútornou jednotkou a nástenným ovládačom.","filter":"ELE"}
+{"Popis":"Izolovaný prestup chladiva - dvojplášťový\n- 100x100 - 1000mm\n- pozink","filter":"CU"}
+{"Popis":"Odkvapnica na izolovaný sokel","filter":"CU"}
+{"Popis":"Izolované Cu potrubie -trieda horľavosti B (samozhášacia) podľa DIN 4102), vr. komunikačné kabeláže a upevňovacieho materiálu.","filter":"CU"}
+{"Popis":"Ochrana proti UV žiareniu pre vonkajšie Cu potrubie","filter":"CU"}
+{"Popis":"Doplnenie chladiva R32\n- ekologicky nezávadné a prípustné.","filter":"CHLAD"}
+{"Popis":"Tlaková skúška, skúška tesnosti Cu potrubia.","filter":"SKU"}
+{"Popis":"Revízia plynového zariadenia","filter":"SKU"}
+{"Popis":"Založenie evidenčnej knihy chladiaceho zariadenia","filter":"SKU"}
+{"Popis":"Podklady pre zhodnotenie plynového zariadenia - požiadavka SK leg.","filter":"SKU"}
+{"Popis":"Oceľová konštrukcia - pre chladiacu jednotku vr. zavetrovanie.","filter":"MM"}
+{"Popis":"Oceľová konštrukcia - pre rozvody Cu.","filter":"MM"}
+{"Popis":"Prestup fasádou\/strechou, vr. prípadné oceľové výmeny, hydroizolácia\/oplechovanie a zapravenie - dodá. Stavby","filter":"STAV"}
+{"Popis":"Sifóny, vr. potrubie (HT) pre odvod kondenzátu od vnútorných jednotiek - dodá. ZTI","filter":"ZTI"}
+{"Popis":"Silové napájanie vonkajšej jednotky cez servisný vypínač (dodá. ELE) a ovládanie - všetko dodávka vr. prekáblovanie - ELE\/MaR","filter":"ELE"}
+{"Popis":"Ostatné","filter":"TEXT"}
+{"Popis":"Test VZT jednotky vo výrobnom závode so zástupcami klienta","filter":"SKU"}
+{"Popis":"Čistiace otvory - 1 kpl po 10m","filter":"PVZT"}
+{"Popis":"Montážny, tesniaci a spojovací materiál","filter":"MM"}
+{"Popis":"Nosný systém na vyvesenie potrubia na hale (nie je možné kotviť do trapézu)\n- Nosníky double 6m od HILTI, popr. SIKLA, vr. kotevného materiálu","filter":"MM"}
+{"Popis":"Vykonávacia dokumentácia v 3D softvéri - REVIT Execution Design\n- TZ + výkresy + schémy - všetko SK\/ANJ\n- farebná tlač","filter":"RPD"}
+{"Popis":"Dokumentácia skutočného stavu v 3D softvéri - REVIT\n- TZ + výkresy + schémy - všetko SK\/ANJ\n- farebná tlač","filter":"RPD"}
+{"Popis":"Odovzdávacia dokumentácia","filter":"OST"}
+{"Popis":"Náklady na dopravu","filter":"DOPR"}
+{"Popis":"Žeriav\n- najťažší diel cca 3.000kg, do 100m od fasády (výška cca. 55m) - do 400 zdvihov","filter":"ZER"}
+{"Popis":"Vrtuľník\n- najťažší diel cca 3.000kg, do 100m od fasády (výška cca. 55m) - do 400 zdvihov","filter":"ZER"}
+{"Popis":"Vnútro stavenisková doprava","filter":"DOPR"}
+{"Popis":"Vnútro stavenisková doprava - ťažké diely - komory jednotiek, potrubia a príslušenstva","filter":"DOPR"}
+{"Popis":"Motorová plošina do terénu vrátane požadovaných bezpečnostných prvkov\n- zdvih 2-14m, hmotnosť mont. skupiny + potrubie o cca m=150-200kg po dobu 3 mesiacov","filter":"LES"}
+{"Popis":"Elektrická plošina do haly vrátane požadovaných bezpečnostných prvkov\n- zdvih 2-14m, hmotnosť mont. skupiny + potrubie o cca m=150-200kg po dobu 7 mesiacov","filter":"LES"}
+{"Popis":"Montážne lešenie\n- zdvih 2-6m po dobu 7 mesiacov","filter":"LES"}
+{"Popis":"Koordinačná činnosť a náklady spojené s koordináciou","filter":"OST"}
+{"Popis":"Značenie vzduchotechnického zariadenia a potrubia podľa platných STN","filter":"OST"}
+{"Popis":"Požiarne upchávky","filter":"PUPCH"}
+{"Popis":"Zariadenie staveniska (stavebná unimo-bunka) po dobu 10 mesiacov","filter":"ZS"}
+{"Popis":"Energia + voda po dobu 10 mesiacov","filter":"ZS"}
+{"Popis":"Zaregulovanie + meranie vzduchových výkonov vr. protokolov\n- všetko SK\/ANJ","filter":"SKU"}
+{"Popis":"Akreditované meranie hluku, vr. protokolu","filter":"SKU"}
+{"Popis":"Uvedenie do prevádzky, zaškolenie obsluhy","filter":"SKU"}
+{"Popis":"Denní úklid staveniště","filter":"OST"}
+{"Popis":"Kontajnery na likvidáciu odpadu profesie VZT","filter":"OST"}
+{"Popis":"Strečová fólia na balenie potrubia na stavbe po montáži\n- 500mm-300m","filter":"SKU"}
+{"Popis":"Test tesnosti VZT potrubia (podľa LEED požiadaviek)","filter":"SKU"}
+{"Popis":"Commissioning activities related to the LEED requirements ","filter":"SKU"}
